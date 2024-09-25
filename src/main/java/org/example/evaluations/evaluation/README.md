@@ -1,4 +1,3 @@
-# mvc-user-01
 # Understanding Model View Controller (MVC) pattern by implementing GetOrderById and GetAllOrders Api 
 
 ## This project contains OrderController, OrderService and OrderRepository. You need to add implementation wherever mentioned below in requirements or in Code comments.
